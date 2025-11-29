@@ -12,7 +12,7 @@ Free SaaS templates
 
 **To get started with this template, follow these steps:**
 
-- Clone the repository: `git clone https://github.com/mscbuild/dark-thema-saas.git1
+- Clone the repository: `git clone https://github.com/mscbuild/dark-thema-saas.git`
 - Install the dependencies: `npm install`
 - Start the development server: `npm run dev`
 
